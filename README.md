@@ -62,7 +62,7 @@ An end-to-end analysis of global electronics retail sales data, focusing on sale
 - Dashboard Development
 - Business Analysis
 
-📂 **[View Project →](01-Global-Electronics-Retail-Sales-Analysis/)**
+📂 **[View Project →](https://github.com/AnkitMathnikar/Excel-Data-Analytics-Projects/tree/main/01_Global%20Electronics%20Retail%20Sales%20Analysis)**
 
 ---
 
