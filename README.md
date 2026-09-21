@@ -92,7 +92,7 @@ An analysis of Data Analyst salary data to explore compensation patterns and und
 - Dashboard Development
 - Business Insights
 
-📂 **[View Project →](02-Data-Analyst-Salary-Analysis/)**
+📂 **[View Project →](https://github.com/AnkitMathnikar/Excel-Data-Analytics-Projects/tree/main/02_Salary%20Analysis)**
 
 ---
 
@@ -123,7 +123,7 @@ An analysis of UPI transaction data to understand transaction activity, payment 
 - Dashboard Development
 - Business Insights
 
-📂 **[View Project →](03-UPI-Transaction-Analysis/)**
+📂 **[View Project →](https://github.com/AnkitMathnikar/Excel-Data-Analytics-Projects/tree/main/03_UPI%20Transactions%20%26%20Fraud%20Analysis)**
 
 ---
 
@@ -158,7 +158,7 @@ An analysis of coffee shop transaction data to understand revenue performance, p
 - Dashboard Development
 - Business Insights
 
-📂 **[View Project →](04-Coffee-Shop-Sales-Analysis/)**
+📂 **[View Project →](https://github.com/AnkitMathnikar/Excel-Data-Analytics-Projects/tree/main/04_Coffee%20Shop%20Sales)**
 
 ---
 
@@ -190,7 +190,7 @@ The project demonstrates how Excel can be used to summarize datasets and present
 - KPI Reporting
 - Business Insights
 
-📂 **[View Project →](05-Salary-Dashboard-Data-Analytics/)**
+📂 **[View Project →](https://github.com/AnkitMathnikar/Excel-Data-Analytics-Projects/tree/main/05_Salary%20Calculator)**
 
 ---
 
